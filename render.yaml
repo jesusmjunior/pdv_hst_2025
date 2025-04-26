@@ -6,7 +6,7 @@ services:
     plan: free
     buildCommand: npm install
     startCommand: npm start
-    repo: https://github.com/jesus-pdv/orion-pdv.git # Atualize conforme seu usuário GitHub
+    repo: https://github.com/jesusmjunior/pdv_hst_2025.git # Atualize conforme seu usuário GitHub
     branch: main
     buildFilter:
       paths:
